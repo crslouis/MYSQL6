@@ -1,4 +1,4 @@
-![database png](https://github.com/crslouis/MYSQL6/assets/147572011/3d8e17fe-6538-44b3-ab90-fb44904e7622)# Tugas Praktikum { Pertemuan ke 13 } <img src=https://logos-download.com/wp-content/uploads/2016/05/MySQL_logo_logotype.png width="130px" >
+# Tugas Praktikum { Pertemuan ke 13 } <img src=https://logos-download.com/wp-content/uploads/2016/05/MySQL_logo_logotype.png width="130px" >
 
 
 |*Nama|NIM|Kelas|Matkul*|
