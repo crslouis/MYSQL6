@@ -1,4 +1,4 @@
-# Tugas Praktikum { Pertemuan ke 13 } <img src=https://logos-download.com/wp-content/uploads/2016/05/MySQL_logo_logotype.png width="130px" >
+![database png](https://github.com/crslouis/MYSQL6/assets/147572011/3d8e17fe-6538-44b3-ab90-fb44904e7622)# Tugas Praktikum { Pertemuan ke 13 } <img src=https://logos-download.com/wp-content/uploads/2016/05/MySQL_logo_logotype.png width="130px" >
 
 
 |*Nama|NIM|Kelas|Matkul*|
@@ -26,7 +26,8 @@ Sebuah perusahaan ingin membuat sistem untuk pengeloalaan data karyawan pada per
 Buatlah desain databasenya (ER-Diagram), beserta tabel datanya ?
 
 # ERD
-![alt text](<Screnshoot/ss draw io.png>)
+![database png](https://github.com/crslouis/MYSQL6/assets/147572011/451dbd29-7ef2-456f-916d-c6c45e9d17f7)
+
 
 # PENGOLAHAN DATA KARYAWAN
 # Tabel Departement
